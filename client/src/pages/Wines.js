@@ -43,10 +43,10 @@ function Wines() {
   // Then reload books from the database
   function handleFormSubmit(event) {
     event.preventDefault();
-    if (formObject.wine_name && formObject.full_name) {
+    if (formObject.wine_name && formObject.variety) {
       API.saveWine({
         title: formObject.wine_name,
-        author: formObject.full_name,
+        variety: formObject.variety,
         synopsis: formObject.synopsis
       })
         .then(res => loadWines())
