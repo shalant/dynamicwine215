@@ -87,7 +87,7 @@ function Wines() {
           </Col>
           <Col size="md-6 sm-12">
             <Jumbotron>
-              <h1>Wines On My List</h1>
+              <h1>Wines On Our List</h1>
             </Jumbotron>
             {wines.length ? (
               <List>
