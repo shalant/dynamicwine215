@@ -8,9 +8,8 @@
 
 
 ## Technologies Used
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg")height="" />
 ![javascript icon|100x100](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-
+![javascript logo](/images/240px-JavaScript-logo.png)
 
 ## Special Gotchas of your projects (Problems you faced, unique elements of your project)
 
