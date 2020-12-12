@@ -12,7 +12,7 @@
 ![react logo](/images/200px-React-icon.svg.png)
 ![googlemaps logo](/images/200px-Google_Maps_icon.svg.png)
 ![mongoDB logo](/images/200px-MongoDB_Logo.svg.png)
-![nodejs logo](/images/200px-MongoDB_Logo.svg.png)
+![nodejs logo](/images/200px-Node.js_logo.svg.png)
 
 ## Special Gotchas of your projects (Problems you faced, unique elements of your project)
 
