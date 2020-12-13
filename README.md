@@ -1,7 +1,8 @@
 # Dynamic Wine (A Title Image too if possible…Edit them on canva.com if you are not a graphic designer.)
 
 ## Description(Describe by words and images alike)
-### Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist.
+![image of site](/images/screenshot.png)
+### Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist. You can filter
 
 ## Demo(Images, Video links, Live Demo links)
 
@@ -17,3 +18,4 @@
 ## Special Gotchas of your projects (Problems you faced, unique elements of your project)
 
 ## Technical Description of your project like- Installation, Setup, How to contribute.
+### From the command line, type "git clone https://github.com/carolinetwyman/dynamicwine.git". Then type "npm install," and "npm start." If you want to seed our dummy wine list, type "npm run seed". Alternatively, you can manually enter a wine list.
