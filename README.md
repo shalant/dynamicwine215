@@ -16,6 +16,9 @@
 ![nodejs logo](/images/200px-Node.js_logo.svg.png)
 
 ## Special Gotchas of your projects (Problems you faced, unique elements of your project)
+### Coding google maps, filters, CRUD operations, and  Passport.js authentication were each personal mountains. The group had to restart two separate times. On the bright side, each failure WAS accompanied by learning.
 
 ## Technical Description of your project like- Installation, Setup, How to contribute.
-### From the command line, type "git clone https://github.com/carolinetwyman/dynamicwine.git". Then type "npm install," and "npm start." If you want to seed our dummy wine list, type "npm run seed". Alternatively, you can manually enter a wine list.
+### From the command line, type "git clone https://github.com/carolinetwyman/dynamicwine.git". Then type "npm install," and "npm start."
+
+### To add wines, you have 3 options: 1) use our dummy list by typing "npm run seed." 2) Alternatively, you can manually enter a wine list into scripts/seedDB.js followed by "npm run seed." 3) Or enter them through the website, using the winefinder and clicking submit for each wine.
