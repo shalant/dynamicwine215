@@ -16,7 +16,7 @@
 ![nodejs logo](/images/200px-Node.js_logo.svg.png)
 
 ## Special Gotchas of your projects (Problems you faced, unique elements of your project)
-### Coding google maps, filters, CRUD operations, and  Passport.js authentication were each personal mountains. The group had to restart two separate times. On the bright side, each failure WAS accompanied by learning.
+### Coding google maps, filters, CRUD operations, UI/UX, deploying to Heroku, mastering >100 Github commits, and  Passport.js authentication were each personal mountains. The group had to restart two separate times. On the bright side, each failure WAS accompanied by learning.
 
 ## Technical Description of your project like- Installation, Setup, How to contribute.
 ### From the command line, type "git clone https://github.com/carolinetwyman/dynamicwine.git". Then type "npm install," and "npm start."
