@@ -1,8 +1,12 @@
+![logo](/images/logo-10.png)
+
 # Dynamic Wine (A Title Image too if possible…Edit them on canva.com if you are not a graphic designer.)
 
 ## Description(Describe by words and images alike)
 ![image of site](/images/screenshot.png)
-### Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist. You can filter
+### Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist. You can filter your establishment's wine list by color or country, see it on a map, and click on a bottle to see tasting notes.
+
+## ***Alcohol abuse is dangerous for health, consume with moderation***
 
 ## Demo(Images, Video links, Live Demo links)
 
